@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioGenerico.Crud.Data", "RepositorioGenerico.Crud.Data\RepositorioGenerico.Crud.Data.csproj", "{EABAFAD2-0FD1-4BBA-8B39-68CECFB49D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioGenerico.Crud.Model", "RepositorioGenerico.Crud.Model\RepositorioGenerico.Crud.Model.csproj", "{4A2557E6-4E64-49F0-8D12-D345AA9AE071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioGenerico.Crud.Repository", "RepositorioGenerico.Crud.Repository\RepositorioGenerico.Crud.Repository.csproj", "{6767BF74-C1FE-4EA3-8CE3-C2DD9D3B29A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioGenerico.Crud.UI.MVC", "RepositorioGenerico.Crud.UI.MVC\RepositorioGenerico.Crud.UI.MVC.csproj", "{682CDD94-5F9E-436F-AEED-2DC466078193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioGenerico.Crud.Test", "RepositorioGenerico.Crud.Test\RepositorioGenerico.Crud.Test.csproj", "{6283A405-AC35-43B5-B602-151BB6C37D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABAFAD2-0FD1-4BBA-8B39-68CECFB49D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABAFAD2-0FD1-4BBA-8B39-68CECFB49D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABAFAD2-0FD1-4BBA-8B39-68CECFB49D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABAFAD2-0FD1-4BBA-8B39-68CECFB49D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2557E6-4E64-49F0-8D12-D345AA9AE071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2557E6-4E64-49F0-8D12-D345AA9AE071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2557E6-4E64-49F0-8D12-D345AA9AE071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2557E6-4E64-49F0-8D12-D345AA9AE071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6767BF74-C1FE-4EA3-8CE3-C2DD9D3B29A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6767BF74-C1FE-4EA3-8CE3-C2DD9D3B29A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6767BF74-C1FE-4EA3-8CE3-C2DD9D3B29A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6767BF74-C1FE-4EA3-8CE3-C2DD9D3B29A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682CDD94-5F9E-436F-AEED-2DC466078193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682CDD94-5F9E-436F-AEED-2DC466078193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682CDD94-5F9E-436F-AEED-2DC466078193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682CDD94-5F9E-436F-AEED-2DC466078193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6283A405-AC35-43B5-B602-151BB6C37D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6283A405-AC35-43B5-B602-151BB6C37D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6283A405-AC35-43B5-B602-151BB6C37D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6283A405-AC35-43B5-B602-151BB6C37D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
